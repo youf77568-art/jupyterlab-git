@@ -2,6 +2,31 @@
 
 <!-- <START NEW CHANGELOG ENTRY> -->
 
+## 0.51.3
+
+([Full Changelog](https://github.com/jupyterlab/jupyterlab-git/compare/v0.51.2...73bb0d02e48e8fa5794885be900809b588d2c122))
+
+### Enhancements made
+
+- Use `serverSettings` to make API requests [#1437](https://github.com/jupyterlab/jupyterlab-git/pull/1437) ([@jtpio](https://github.com/jtpio))
+
+### Bugs fixed
+
+- Fix scrolling issue in diff viewer [#1433](https://github.com/jupyterlab/jupyterlab-git/pull/1433) ([@Meriem-BenIsmail](https://github.com/Meriem-BenIsmail))
+- Fix cloning from new host via ssh by prompting for confirmation [#1408](https://github.com/jupyterlab/jupyterlab-git/pull/1408) ([@jesuino](https://github.com/jesuino))
+
+### Maintenance and upkeep improvements
+
+- Remove unused `handler.ts` file [#1436](https://github.com/jupyterlab/jupyterlab-git/pull/1436) ([@jtpio](https://github.com/jtpio))
+
+### Contributors to this release
+
+([GitHub contributors page for this release](https://github.com/jupyterlab/jupyterlab-git/graphs/contributors?from=2025-06-12&to=2025-12-10&type=c))
+
+[@github-actions](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Agithub-actions+updated%3A2025-06-12..2025-12-10&type=Issues) | [@jesuino](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Ajesuino+updated%3A2025-06-12..2025-12-10&type=Issues) | [@jtpio](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Ajtpio+updated%3A2025-06-12..2025-12-10&type=Issues) | [@Meriem-BenIsmail](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3AMeriem-BenIsmail+updated%3A2025-06-12..2025-12-10&type=Issues)
+
+<!-- <END NEW CHANGELOG ENTRY> -->
+
 ## 0.51.2
 
 ([Full Changelog](https://github.com/jupyterlab/jupyterlab-git/compare/v0.51.1...bee4e6492440dd17280fb30478420f18e7f3c416))
@@ -25,8 +50,6 @@
 ([GitHub contributors page for this release](https://github.com/jupyterlab/jupyterlab-git/graphs/contributors?from=2025-04-03&to=2025-06-12&type=c))
 
 [@ctcjab](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Actcjab+updated%3A2025-04-03..2025-06-12&type=Issues) | [@dependabot](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Adependabot+updated%3A2025-04-03..2025-06-12&type=Issues) | [@github-actions](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Agithub-actions+updated%3A2025-04-03..2025-06-12&type=Issues) | [@gjmooney](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Agjmooney+updated%3A2025-04-03..2025-06-12&type=Issues) | [@jiridanek](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Ajiridanek+updated%3A2025-04-03..2025-06-12&type=Issues) | [@jtpio](https://github.com/search?q=repo%3Ajupyterlab%2Fjupyterlab-git+involves%3Ajtpio+updated%3A2025-04-03..2025-06-12&type=Issues)
-
-<!-- <END NEW CHANGELOG ENTRY> -->
 
 ## 0.51.1
 
